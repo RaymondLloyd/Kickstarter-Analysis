@@ -15,6 +15,4 @@ Depending on what time of year it is, the success rate is higher than at other t
 Looking at the data for Kickstarter "Goals", i was trying to find a correlation between the amount asked for from investors, and the success rate of their campaigns. It is my conclusion that there really was not a considerable correlation between the two. From the chart provided, you can see that overall, the success rate rate was a bit random. I would need more analysis is needed to dive in to to determine more trends, such as location, how many investors, and how much each individual invested. (I think it was probably the investors' personal preference as to how much to invest).
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79877349/111839751-87e19500-88b8-11eb-834b-ae0c9f1a35a2.png)
 ## Results
-
-
 I recommend to Louise to start her next campaign in July for her best chance at success. 
